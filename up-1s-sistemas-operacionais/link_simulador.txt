@@ -1,0 +1,2 @@
+SOsim: Simulador para o Ensino de Sistemas Operacionais
+http://www.training.com.br/sosim/
